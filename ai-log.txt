@@ -1,0 +1,8 @@
+Prompt 1:
+"Write Node.js code to fetch multiple API calls in parallel using Promise.all"
+
+Prompt 2:
+"Write robust try catch error handling for axios async API requests"
+
+Prompt 3:
+"Generate personalized apology message function for delivery delay"
